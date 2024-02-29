@@ -1,0 +1,191 @@
+/* styles.css */
+.green-box {
+    background-color: rgb(38, 118, 38); /* Set background color to green */
+    color: white; /* Set text color to white */
+    border-radius: 1px; /* Add rounded corners to the box */
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    width: 700px;
+    height: 408px;
+  }
+  
+  .green-button {
+    background-color: rgb(52, 132, 52); /* Set background color of the button */
+    color: rgb(212, 213, 213); /* Set text color of the button */
+    border: 50px rgb(28, 24, 24); 
+    border-radius: 50px;
+    padding: 10px 20px; /* Add padding to the button */
+    margin-top: 1%; /* Add some space above the button */
+    cursor: pointer; /* Change cursor to pointer when hovering over the button */
+  }
+
+  .brown-box {
+    background-color: rgb(137, 97, 42); /* Set background color to green */
+    color: white; /* Set text color to white */
+    border-radius: 1px; /* Add rounded corners to the box */
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    width: 700px;
+    height: 608px;
+  }
+  
+  .brown-button {
+    background-color: rgb(137, 97, 42); /* Set background color of the button */
+    color: rgb(255, 255, 255); /* Set text color of the button */
+    border: 50px rgb(240, 237, 237); 
+    border-radius: 50px;
+    padding: 10px 20px; /* Add padding to the button */
+    margin-top: 1%; /* Add some space above the button */
+    cursor: pointer; /* Change cursor to pointer when hovering over the button */
+  }
+
+  .pink-box {
+    background-color: rgb(241, 110, 80); /* Set background color to green */
+    color: white; /* Set text color to white */
+    border-radius: 1px; /* Add rounded corners to the box */
+    position: absolute;
+    top: 155%;
+    left: 50%;
+    width: 700px;
+    height: 608px;
+  }
+  
+  .pink-button {
+    background-color: rgb(137, 97, 42); /* Set background color of the button */
+    color: rgb(255, 255, 255); /* Set text color of the button */
+    border: 50px rgb(240, 237, 237); 
+    border-radius: 50px;
+    padding: 10px 20px; /* Add padding to the button */
+    margin-top: 1%; /* Add some space above the button */
+    cursor: pointer; /* Change cursor to pointer when hovering over the button */
+  }
+
+  .blue-box {
+    background-color: rgb(60, 133, 137); /* Set background color to green */
+    color: white; /* Set text color to white */
+    border-radius: 1px; /* Add rounded corners to the box */
+    position: absolute;
+    top: 240%;
+    left: 10%;
+    width: 700px;
+    height: 608px;
+  }
+  
+  .blue-button {
+    background-color: rgb(60, 133, 137); /* Set background color of the button */
+    color: rgb(255, 255, 255); /* Set text color of the button */
+    border: 2cm rgb(240, 237, 237); 
+    border-radius: 50px;
+    padding: 10px 20px; /* Add padding to the button */
+    margin-top: 1%; /* Add some space above the button */
+    cursor: pointer; /* Change cursor to pointer when hovering over the button */
+  }
+  
+  .gray-box {
+    background-color: rgb(23, 94, 48); /* Set background color to green */
+    color: white; /* Set text color to white */
+    border-radius: 1px; /* Add rounded corners to the box */
+    position: absolute;
+    top: 325%;
+    left: 50%;
+    width: 700px;
+    height: 410px;
+  }
+  
+  .gray-button {
+    background-color: rgb(23, 94, 48); /* Set background color of the button */
+    color: rgb(255, 255, 255); /* Set text color of the button */
+    border: 2cm rgb(240, 237, 237); 
+    border-radius: 50px;
+    padding: 10px 20px; /* Add padding to the button */
+    margin-top: 1%; /* Add some space above the button */
+    cursor: pointer; /* Change cursor to pointer when hovering over the button */
+  }
+
+  .additional-text{
+    position: absolute;
+    top: 380%;
+    left: 35%;
+  }
+
+  .additional-text-two{
+    position: absolute;
+    top: 410%;
+    left: 40%;
+  }
+
+  .additional-text-three{
+    position: absolute;
+    top: 490%;
+    left: 10%;
+  }
+
+  .horizontal-line {
+    top: 11%;
+    left: 0%;
+    position: absolute;
+    width: 100%;
+    height: 3px; /* Adjust height as needed */
+    background-color: rgb(242, 222, 222); /* Adjust color as needed */
+  }
+
+  .horizontal-line-two{
+    top: 420%;
+    left: 0%;
+    position: absolute;
+    width: 100%;
+    height: 3px; /* Adjust height as needed */
+    background-color: rgb(242, 222, 222); /* Adjust color as needed */
+  }
+
+  .horizontal-line-three{
+    top: 480%;
+    left: 15%;
+    position: absolute;
+    width: 70%;
+    height: 3px; /* Adjust height as needed */
+    background-color: rgb(242, 222, 222); /* Adjust color as needed */
+  }
+
+
+  .list-one{
+    position: absolute;
+    top: 420%;
+    left: 10%;
+  }
+
+  .list-two{
+    position: absolute;
+    top: 420%;
+    left: 23%;
+  }
+  .list-three{
+    position: absolute;
+    top: 420%;
+    left: 40%;
+  }
+  .list-four{
+    position: absolute;
+    top: 420%;
+    left: 63%;
+  }
+  .list-five{
+    position: absolute;
+    top: 420%;
+    left: 82%;
+  }
+
+  .buttons{
+    position: absolute;
+    border: none;
+    top: 1%;
+    left: 10%;
+  }
+  .App {
+    height: 100vh; /* Set height of container to 100% of viewport height */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+  
+  
